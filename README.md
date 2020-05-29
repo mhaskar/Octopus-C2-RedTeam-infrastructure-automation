@@ -1,6 +1,6 @@
 # Octopus-C2-RedTeam-infrastructure-automation
 
-This script used to automate the infrastructure build for Octopus C2, you can customaize it and use the script to build instances as you need for any other C2.
+This script used to automate the infrastructure build for [Octopus C2](https://github.com/mhaskar/Octopus), you can customaize it and use the script to build instances as you need for any other C2.
 
 # Documentation
 
